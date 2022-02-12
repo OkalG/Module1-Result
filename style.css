@@ -1,0 +1,40 @@
+<style>
+	p,div,ol {color: black;
+		font-size: 15px;
+		
+		text-align: left;}
+	h3{
+		text-align: center;
+		color: darkgoldenrod;}
+	section li {
+		list-style: none;
+	}
+a:link,a:visited{
+	text-decoration: none;
+	background: lightcyan;
+	border: 1px solid goldenrod;
+	color: black;
+	display: block;
+	width: 280px;
+	text-align: center;
+	margin-top: 2px;
+}
+a:hover, a:active{
+	background-color: blue;
+	color: darkgoldenrod;
+}
+h1,h3{font-size: 20px;
+text-align: center;
+}
+h1.title{
+	text-align: center;
+	font-size: 30px;
+	color: darkgoldenrod;
+	text-decoration: underline;
+}
+section h2{font-size: 20px;
+color: blue;
+text-decoration: underline;}
+.background{background: lightcyan;}
+
+</style>
