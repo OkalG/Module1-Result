@@ -1,4 +1,6 @@
-<style>
+    h
+
+    body{background-color: lightgoldenrodyellow;}
 	p,div,ol {color: black;
 		font-size: 15px;
 		
@@ -23,8 +25,10 @@ a:hover, a:active{
 	background-color: blue;
 	color: darkgoldenrod;
 }
-h1,h3{font-size: 20px;
+h1{font-size: 30px;
 text-align: center;
+color: darkgoldenrod;
+flood-color: yellowgreen;
 }
 h1.title{
 	text-align: center;
@@ -37,4 +41,4 @@ color: blue;
 text-decoration: underline;}
 .background{background: lightcyan;}
 
-</style>
+
